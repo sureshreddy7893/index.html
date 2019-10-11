@@ -1,0 +1,265 @@
+*
+{
+margin: 0;
+padding:0;
+}
+body
+{
+font-family:sans-serif;
+
+}
+
+
+#nav-bar
+{
+position:sticky;
+top:0;
+z-index:10;
+}
+.navbar
+{
+background-image:linear-gradient(to right,#cf093f,#ce94d7); 
+padding:0;
+}
+.navbar-brand img
+{
+	height:40px;
+	padding-left:20px;
+	
+}
+navbar-nav lighter{
+	padding:0 10px;
+}
+.navbar-nav li a{
+color:#fff;
+font-weight:600;
+float:right;
+text-align:right;
+}
+.fa-bars
+{
+	color:#fff;
+	font-size:35px;
+}
+.navbar-toggler
+{
+	outline:none;
+}
+
+
+#banner
+{
+	background-image:linear-gradient(to right,#cf093f,#ce94d7); 
+	color:#fff;
+	padding top:4%;
+}
+.promo-title
+{
+	font-size:30px;
+	font-weight:400;
+	margin:top;
+	
+}
+.play-vid
+{
+	width:35px;
+	height:30px;
+}
+#banner
+	{
+		color:#fff;
+		text decoration:none;
+	}
+.bottum-img
+{
+	width=100%;
+}
+#Home
+{
+padding:80px 0;	
+background-color:#FAFAD2;
+	
+}
+.home-img
+{
+	
+	float:right;
+	
+}
+.para-txt
+{
+	float:left;
+	text-align:left;
+}
+#History
+{
+	padding:0px 80px;
+	background-color:#E0FFFF;
+	
+}
+.History-img
+{
+	float:right;
+	padding:2px;
+}
+.pa-txt{
+	text-align:left;
+}
+#about-us
+{
+	background:#f8f9fa;
+	padding-bottom: 50px;
+	padding-top:50px;
+}
+.about us
+{
+	background:#f8f9fa;
+	padding-bottom: 50px;
+	padding-top:50px;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Allura|Josefin+Sans&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body
+{
+	background:#81c644;
+font-family: 'Josefin Sans', sans-serif;
+}
+.wrapper
+{
+	margin-top:10%;
+	background:#81c644;
+	
+}
+.wrapper h1
+{
+	font-family: 'Allura', cursive;
+	font-size:50px;
+	margin-bottom:50px;
+	text-align:center;
+}
+.team
+{
+	display:flex;
+	text-align:center;
+	width:auto;
+	justify-content:center;
+	
+}
+
+.team .team-member
+{
+	background:#fff;
+	margin:5px;
+	margin-bottom:50px;
+	width:300px;
+	padding:20px;
+	color:#8e8b8b;
+	position:relative;
+}
+.team .team-member h3
+{
+	color:#81c644;
+	font-size:25px;
+	margin-top:45px;
+}
+.team .team-member p.role
+{
+	color:#ccc;
+	font-size:12px;
+	text-transform:uppercase;
+    margin:12px 0;
+}
+.team .team-member .team-img
+{
+	width:100px;
+	height:100px;
+	border-radius:50%;
+	position:absolute;
+	top:-50px;
+	left:50%;
+	transform:translatex(-50px);
+	background:#fff;
+	
+}
+.team .team-member .team-img img{
+width:100px;
+height:100px;
+padding:10px;
+  border-radius:50%;
+}
+
+#customers
+{
+	float:none;
+}
+.details
+{
+	background-color:#b2b2b2;
+	color:#fff;
+	margin-top:30px;
+	padding-top:30px;
+}
+
+
+.site-footer
+{
+	background-color:#222;
+	color:#fff;
+	margin-top:30px;
+	padding-top:30px;
+	
+}
+.bottom-footer
+{
+	border-top:1px solid #b2b2b2;
+	margin-top:10px;
+	padding-top:10px;
+	color:#b2b2b2;
+}
+.footer-nav
+{
+	text-align:right;
+	list-style:none;
+	
+}
+.footer-nav li
+{
+	display:inline;
+
+	
+}
+.footer-nav li:not(:first-child):before
+{
+	content:'|';
+    padding:0px 10px
+		
+	
+}
+.footer-nav a{
+   color:#b2b2b2;
+   
+	
+}
+.footer-nav a:Hover	
+{
+	color:fff;
+	text-decoration:none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
